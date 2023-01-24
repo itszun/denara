@@ -1,0 +1,23 @@
+{
+    "name": "itszun/denara",
+    "type": "library",
+    "require": {
+        "laravel/framework": "^8.65",
+        "laravel/tinker": "^2.5",
+        "okipa/laravel-table": "^4.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5.10"
+    },
+    "autoload": {
+        "psr-4": {
+            "Itszun\\Denara\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Zun",
+            "email": "malikal.j4@gmail.com"
+        }
+    ]
+}
