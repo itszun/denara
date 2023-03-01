@@ -11,7 +11,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Itszun\\Denara\\": "src/"
+            "Denara\\": "src/"
         }
     },
     "authors": [
